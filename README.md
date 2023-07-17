@@ -1,4 +1,4 @@
-### Hi!👋 My name is Valery Kozhin. I am a C++ developer.
+### Hi!👋 My name is Valery. I am a C++ developer.
 I am a graduate of the course "C++ developer" from Yandex Praktikum. 
 
 Technology Stack: C++17, STL, MS Visual Studio, CMake, Git
