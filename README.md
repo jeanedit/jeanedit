@@ -1,6 +1,6 @@
 ### Hi!👋 My name is Valery. I am a C++ developer.
 
-Graduate of Peter the Great St.Petersburg Polytechnic University. I have a Master's Degree in Computational Mechanics.
+Graduate of Peter the Great St.Petersburg Polytechnic University. Master's Degree in Computational Mechanics.
 
 Student of the course "C++ developer" from Yandex Praktikum. 
 
