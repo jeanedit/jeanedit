@@ -3,7 +3,7 @@
 I'm a passionate computer scientist with a focus on game development, computer graphics, and physics. Here's a bit about me:
 
 - 🔭 I'm currently working on a physics engine and creating simple demos using OpenGL.
-- 🌱 I enjoy learning and working with C++17, CMake, Protocol Buffers (protobuf), OpenGL, Visual Studio, and Git.
+- 🌱 I enjoy learning new things and working with different technologies.
 - 📚 I hold a master's degree in Computational Mechanics with honors from Saint Petersburg Polytechnic University.
 - 🎓 I'm also a graduate of the C++ Developer course from Yandex Praktitum.
 - 💬 Ask me about game development, computer graphics, or anything tech-related.
