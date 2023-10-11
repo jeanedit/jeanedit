@@ -13,9 +13,9 @@ I'm a passionate computer scientist with a focus on game development, computer g
 
 Here are some of the projects I'm proud of:
 
-1. **Transport Catalogue** - A comprehensive transportation data catalog [Repository](https://github.com/jeanedit/cpp-transport-catalogue)
-2. **Search Server** - An efficient search server implementation [Repository](https://github.com/jeanedit/cpp-search-server)
-3. **SpreadSheet** - A spreadsheet application (currently a work in progress). [Repository](Private)
+1. **Transport Catalogue** - A comprehensive transportation data catalog. [Repository](https://github.com/jeanedit/cpp-transport-catalogue)
+2. **Search Server** - An efficient search server implementation. [Repository](https://github.com/jeanedit/cpp-search-server)
+3. **SpreadSheet** - A spreadsheet application. [Repository](https://github.com/jeanedit/spreadsheet)
 
 ### My Tech Stack
 
