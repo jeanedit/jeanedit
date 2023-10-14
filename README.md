@@ -19,7 +19,7 @@ Here are some of the projects I'm proud of:
 
 ### My Tech Stack
 
-- **Languages**: C++17, familiar with Python 3 and GLSL
+- **Languages**: C++17, a little knowledge of Python and GLSL
 - **Tools**: CMake, Visual Studio, Git, OpenGL, Protobuf
 - **Interests**: Game Development, Computer Graphics, Physics, Algorithms, Data Structures and Math.
 
