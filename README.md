@@ -5,7 +5,7 @@ I'm a passionate computer scientist with a focus on game development, computer g
 - 🔭 I'm currently working on a physics engine and creating simple demos using OpenGL.
 - 🌱 I enjoy learning new things and working with different technologies.
 - 📚 I hold a master's degree with honors in Computational Mechanics from Saint Petersburg Polytechnic University.
-- 🎓 I'm also a graduate of the C++ Developer course from Yandex Praktitum.
+- 🎓 I'm also a graduate of the C++ Developer course from Yandex Practicum.
 - 💬 Ask me about C++, computer graphics, game physics or anything tech-related.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/valery-kozhin-54520b174/) or through Telegram [@jeanedit19](https://t.me/jeanedit19).
 
