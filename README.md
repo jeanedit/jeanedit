@@ -1,6 +1,6 @@
 ### Hi there, I'm Valery 👋
 
-I'm a passionate computer scientist with a focus on game development, computer graphics, and game physics. Here's a bit about me:
+I'm a passionate software engineer with a focus on game development, computer graphics, and game physics. Here's a bit about me:
 
 - 🔭 I'm currently working on a physics engine and creating simple demos using OpenGL.
 - 🌱 I enjoy learning new things and working with different technologies.
