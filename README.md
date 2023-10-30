@@ -21,6 +21,6 @@ Here are some of the projects I'm proud of:
 
 - **Languages**: C++17, a little knowledge of Python and GLSL
 - **Tools**: CMake, Visual Studio, Git, OpenGL, Protobuf
-- **Interests**: Game Development, Computer Graphics, Physics, Algorithms, Data Structures and Math.
+- **Interests**: C++ Development, Computer Graphics, Physics, Algorithms, Data Structures and Math.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss tech-related topics.
