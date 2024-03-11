@@ -6,7 +6,7 @@ I'm a passionate software engineer with a focus on C++ development, computer gra
 - 🌱 I enjoy learning new things and working with different technologies.
 - 📚 I hold a master's degree with honors in Computational Mechanics from Saint Petersburg Polytechnic University.
 - 🎓 I'm also a graduate of the C++ Developer course from Yandex Practicum.
-- 💬 Ask me about C++, computer graphics, game physics or anything tech-related.
+- 💬 Ask me about C++, computer graphics, physics simulations or anything tech-related.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/valery-kozhin-54520b174/) or through Telegram [@jeanedit19](https://t.me/jeanedit19).
 
 ### My GitHub Projects
