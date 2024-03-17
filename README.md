@@ -2,7 +2,8 @@
 
 I'm a passionate software engineer with a focus on C++ development, computer graphics, and physics simulations. Here's a bit about me:
 
-- 🔭 I'm currently working on a physics engine and creating simple demos using OpenGL. [Repository](https://github.com/jeanedit/Simple-Physics-Engine)
+- 🛠  In my professional domain, I specialize in developing software for engineering simulations, particularly in the realm of Computer-Aided Engineering (CAE) and multiphysics simulations.
+- 🔭  In my spare time, I'm working on a physics engine and creating simple demos using OpenGL. [Repository](https://github.com/jeanedit/Simple-Physics-Engine)
 - 🌱 I enjoy learning new things and working with different technologies.
 - 📚 I hold a master's degree with honors in Computational Mechanics from Saint Petersburg Polytechnic University.
 - 🎓 I'm also a graduate of the C++ Developer course from Yandex Practicum.
