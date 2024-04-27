@@ -22,6 +22,6 @@ Here are some of the projects I'm proud of:
 
 - **Languages**: C, C++, Python, GLSL, Matlab
 - **Tools**: CMake, Visual Studio, Git, OpenGL, Protobuf, Mercurial, MFC
-- **Interests**: Software Development, Computer Graphics, Physics Simulations, Algorithms & Data Structures and Math.
+- **Interests**: Software Development, Computer Graphics, Physics Simulations, Algorithms & Data Structures, Math.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss tech-related topics.
